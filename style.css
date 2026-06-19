@@ -132,8 +132,6 @@ footer{
     padding:25px;
     margin-top:50px;
 }
-/* Додайте це в кінець вашого style.css */
-
 body.dark-theme {
     background: #121212 !important;
     color: white !important;
