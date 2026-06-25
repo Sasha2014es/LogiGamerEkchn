@@ -32,4 +32,3 @@ document.querySelectorAll("nav a").forEach(link => {
         e.preventDefault();
         window.scrollTo({ top: 500, behavior: "smooth" });
     });
-});
